@@ -1,0 +1,36 @@
+plugins/ynab/src/tools/update-transaction.ts
+  915db7aedc19605b 89-121,123,128-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "9453e298ed2b2114cb8e49ca5a295621ff7bfb80",
+  "prompts": {
+    "915db7aedc19605b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83425b38-e778-4b74-83b9-087271b98c2a",
+        "model": "<synthetic>"
+      },
+      "human_author": "Brian Hartvigsen",
+      "messages": [],
+      "total_additions": 1712,
+      "total_deletions": 498,
+      "accepted_lines": 1332,
+      "overriden_lines": 0
+    },
+    "fe49530a50a74297": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef1222dc-656c-454a-a065-79e19a6c9e4e",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Brian Hartvigsen",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 43,
+      "overriden_lines": 0
+    }
+  }
+}
